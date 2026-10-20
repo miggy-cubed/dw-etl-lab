@@ -1,0 +1,10 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-1009,2026-10-05,S004,Luzviminda Sari-Sari Store,Brgy. Salapan,Manila,P006,Bath soap bar,Personal care,12,30
+ORD-1009,2026-10-05,S004,Luzviminda Sari-Sari Store,Brgy. Salapan,Manila,P005,Rice 1kg,Grains,10,52
+ORD-1009,2026-10-05,S004,Luzviminda Sari-Sari Store,Brgy. Salapan,Manila,P004,Softdrink 1.5L,Beverages,5,75
+ORD-1009,2026-10-05,S004,Luzviminda Sari-Sari Store,Brgy. Salapan,Manila,P003,Canned sardines 155g,Canned goods,6,25
+ORD-1009,2026-10-05,S004,Luzviminda Sari-Sari Store,Brgy. Salapan,Manila,P003,Canned sardines 155g,Canned goods,6,25
+ORD-1009,2026-10-05,S004,Luzviminda Sari-Sari Store,Brgy. Salapan,Manila,P002,3-in-1 coffee sachet,Beverages,7,9
+ORD-1009,2026-10-05,S004,Luzviminda Sari-Sari Store,Brgy. Salapan,Manila,P008,Corned Beef,Canned goods,8,
+ORD-1009,2026-10-05,S004,Luzviminda Sari-Sari Store,Brgy. Salapan,Manila,P009,Vitasoy Chocolate Shake,Beverages,5,42
+ORD-1009,2026-10-05,S004,Luzviminda Sari-Sari Store,Brgy. Salapan,Manila,P010,Red Horse,Beverages,3,150
